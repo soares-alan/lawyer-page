@@ -1,0 +1,26 @@
+@import "tailwindcss";
+@import "normalize.css";
+@import "@fontsource/montserrat"; /* Importa a fonte Montserrat */
+
+body {
+  font-family: "Montserrat", sans-serif;
+  letter-spacing: 0.05em;
+  text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.7);
+}
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+h2 {
+  color: #B17A5D; 
+}
+
+
+
+
+footer {
+  text-shadow: .1px .1px .5px rgba(0, 0, 0, 0.7);
+}
+
