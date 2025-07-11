@@ -1,5 +1,5 @@
 import React, { Suspense, useState } from "react";
-import { Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom"; // 👈 aqui trocamos
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import WhatsAppFloatButton from "./components/WhatsappFloatButton";
@@ -21,7 +21,7 @@ function App() {
   });
 
   return (
-    <div>
+    <Router> {/* 👈 Aqui envolve tudo */}
       <Navbar />
       <WhatsAppFloatButton phoneNumber="" />
       <Suspense fallback={<div>Carregando...</div>}>
@@ -41,10 +41,10 @@ function App() {
           />
           <Route path="/politica-de-cookies" element={<PoliticaDeCookies />} />
           <Route path="/politica-de-privacidade" element={<PoliticaDePrivacidade />} />
-           <Route path="/termos-de-uso" element={<TermosDeUso />} />
+          <Route path="/termos-de-uso" element={<TermosDeUso />} />
         </Routes>
       </Suspense>
-    </div>
+    </Router>
   );
 }
 
