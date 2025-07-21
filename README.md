@@ -84,9 +84,14 @@ legal-website/
 │   │   ├── fonts/
 │   │   └── icons/
 │   ├── components/
-│   │   ├── Header/
-│   │   ├── Footer/
-│   │   └── Sections/
+│   │   ├── AreasAtuacao.jsx
+│   │   ├── Contact.jsx
+│   │   ├── CookieConsent.jsx
+│   │   ├── Footer.jsx
+│   │   ├── Hero.jsx
+│   │   ├── Navbar.jsx
+│   │   ├── SobreNos.jsx
+│   │   └── WhatsappFloatButton.jsx
 │   ├── hooks/
 │   ├── styles/
 │   └── App.jsx
