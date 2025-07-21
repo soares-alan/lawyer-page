@@ -1,11 +1,11 @@
-# ⚖️ Legal Firm Website - React Edition  
+# ⚖️ Law Firm Website - React Edition  
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen) 
 ![License](https://img.shields.io/badge/License-MIT-blue) 
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-9cf) 
 ![Client](https://img.shields.io/badge/Client-Satisfied-green)
 
 <div align="center">
-  <img src="https://i.postimg.cc/8CTpdxjf/legal-demo.png" width="80%" alt="Website Demo" style="border-radius:12px;box-shadow:0 8px 16px rgba(0,0,0,0.15);"/>
+  <img src="https://i.imgur.com/yZSKm1X.gif" width="80%" alt="Website Demo" style="border-radius:12px;box-shadow:0 8px 16px rgba(0,0,0,0.15);"/>
 </div>
 
 > 💬 *A modern legal firm website combining professional credibility with cutting-edge web technologies.*  
@@ -13,6 +13,28 @@
 > This project demonstrates my ability to build performant, accessible React applications using Tailwind CSS and Framer Motion for engaging user experiences.  
 >  
 > Designed to establish trust while meeting modern web standards.
+
+---
+
+## 🚀 Getting Started
+
+To run this project locally, follow these steps:
+
+```bash
+# Clone the repository
+git clone https://github.com/soares-alan/lawyer-page
+
+# Navigate to the project directory
+cd lawyer-page
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
+```
+
+Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed on your machine.
 
 ---
 
@@ -57,7 +79,7 @@ A **high-performance legal website** developed with:
 
 ### 📱 Responsive Design
 
-| ![Desktop](https://i.imgur.com/dfUSFRi.gif) | ![Tablet](https://i.imgur.com/IS8r9LF.gif) | ![Mobile](https://i.imgur.com/Lai69k1.gif) |
+| ![Desktop](https://s1.ezgif.com/tmp/ezgif-1809fa8bf6d67a.gif) | ![Tablet](https://i.imgur.com/jWddXex.gif) | ![Mobile](https://i.imgur.com/qa4Cos2.gif) |
 |:--:|:--:|:--:|
 | **🖥️ Desktop (1440px)** | **📲 Tablet (768px)** | **📱 Mobile (375px)** |
 
@@ -122,7 +144,7 @@ legal-website/
 
 ## 🌐 Live Deployment
 
-[![Live Site](https://img.shields.io/badge/View-Live_Site-2ea44f?style=for-the-badge)](https://soares-alan.github.io/celeterra/)
+[![Live Site](https://img.shields.io/badge/View-Live_Site-2ea44f?style=for-the-badge)](https://soares-alan.github.io/lawyer-page/)
 
 ---
 
@@ -138,4 +160,4 @@ legal-website/
   <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
-</div> 
+</div>
