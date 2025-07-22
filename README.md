@@ -87,9 +87,9 @@ A **high-performance legal website** developed with:
 
 ### Key Sections
 
-| ![Hero Section](https://i.imgur.com/tcLXjWQ.gif) | ![Practice Areas](https://i.imgur.com/HoAcqu4.gif) | ![Attorney Profiles](https://i.imgur.com/PpZr2Cz.gif) |
+| ![Hero Section](https://i.imgur.com/TKaoiT2.gif) | ![Practice Areas](https://i.imgur.com/B2NwGtD.gif) | ![Attorney Profiles](https://i.imgur.com/pgG1ODO.gif) |
 |:--:|:--:|:--:|
-| **Interactive Hero** | **Practice Areas** | **Attorney Profiles** |
+| **Practice Areas** | **About Us** | **Contact** |
 
 ---
 
